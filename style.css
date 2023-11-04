@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#navbar{
+    width: 100vw;
+    height: 62px;
+    position: sticky;
+    top: 0px;
+    background-color: #FFFFFF;
+    ;
+}
+#navbar>div{
+    width:  228.98px;
+    height: 38px;
+    gap: 10px;
+
+}
+
+.vertical-line{
+   height: 32px;
+}
